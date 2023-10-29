@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephRDP", "AlephRDP\AlephRDP.csproj", "{AA730994-1EAB-4003-AAC6-5C3B4534991D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephRDPTest", "AlephRDPTest\AlephRDPTest.csproj", "{5A4672C8-9F49-4A3D-B3F9-3292B9EA3A8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA730994-1EAB-4003-AAC6-5C3B4534991D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA730994-1EAB-4003-AAC6-5C3B4534991D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA730994-1EAB-4003-AAC6-5C3B4534991D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA730994-1EAB-4003-AAC6-5C3B4534991D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A4672C8-9F49-4A3D-B3F9-3292B9EA3A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4672C8-9F49-4A3D-B3F9-3292B9EA3A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4672C8-9F49-4A3D-B3F9-3292B9EA3A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4672C8-9F49-4A3D-B3F9-3292B9EA3A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF3161D0-CC19-4D66-B70B-9E48B30D88BD}
+	EndGlobalSection
+EndGlobal
